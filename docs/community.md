@@ -31,6 +31,7 @@ breadcrumbs: ["База знаний Meshtastic", "Русскоязычные с
 | Белая Калитва | [@meshkalitva](https://t.me/meshkalitva) |
 | Белгород | [@meshtastic_belgorod](https://t.me/meshtastic_belgorod) |
 | Бердск | [@Meshtastic_Berdsk](https://t.me/Meshtastic_Berdsk) |
+| Благовещенск | [@meshtastic_blg](https://t.me/meshtastic_blg) |
 | Брянск | [@meshtastic_Bryansk](https://t.me/meshtastic_Bryansk) |
 | Великий Новгород | [@meshtastic_vnov](https://t.me/meshtastic_vnov) |
 | Владивосток | [@meshtastic_vld](https://t.me/meshtastic_vld) |
